@@ -93,3 +93,28 @@ The project is deployed link -  https://magnet-brains-cwtx.vercel.app/board
 
 ## Conclusion
 The Task Management System is designed to provide users with a comprehensive solution for managing their tasks efficiently. Through thoughtful design decisions and the implementation of key functionalities, the project aims to enhance productivity and organization. Future developments will focus on improving usability, performance, and security, ensuring that the system meets evolving user needs and technological advancements.
+
+
+# ScreenShots
+
+## Home Page
+<img width="960" alt="home" src="https://github.com/Coders6754/Magnet-Brains/assets/128929403/8aa5769a-eff4-444c-8ea5-783a0d06c5fe">
+
+## Signup Page
+<img width="959" alt="signup" src="https://github.com/Coders6754/Magnet-Brains/assets/128929403/e0f45183-c413-44c3-b7b7-8157d862bd0d">
+
+## Login Page
+<img width="960" alt="login" src="https://github.com/Coders6754/Magnet-Brains/assets/128929403/04a61577-9658-4f92-8d64-fec1ad117b7b">
+
+## Todo List
+<img width="953" alt="management " src="https://github.com/Coders6754/Magnet-Brains/assets/128929403/4bd26f99-ad30-4e94-8ad5-5146c6b295d7">
+
+## Add To do
+<img width="959" alt="Add to do" src="https://github.com/Coders6754/Magnet-Brains/assets/128929403/71d07ae3-d572-459c-96e1-54da2b6776ae">
+
+## Duedates
+<img width="959" alt="duedate" src="https://github.com/Coders6754/Magnet-Brains/assets/128929403/a3b90aa5-69f4-4e8e-81af-3e9d13c981d8">
+
+## Updates
+<img width="960" alt="update" src="https://github.com/Coders6754/Magnet-Brains/assets/128929403/d7bad48d-7efd-480b-a080-f124b09411df">
+
