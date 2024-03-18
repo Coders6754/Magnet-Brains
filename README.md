@@ -23,7 +23,7 @@ The Task Management System is a web application designed to help users efficient
 - **Tailwind CSS**
 
 ## Deployment
-The project is deployed and accessible at https://tasktrackerpro.vercel.app.
+The project is deployed and accessible at https://magnet-brains.vercel.app/
 
 <hr/>
 
