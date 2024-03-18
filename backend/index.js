@@ -18,7 +18,9 @@ mongoose
         useUnifiedTopology: true
     })
     .then(console.log("Connected to MongoDB"))
-    .catch((err) => console.log("NOT CONNECTED TO NETWORK", err))
+    .catch((err) => console.log("NOT CONNECTED TO NETWORK", err));
+
+console.log("server is runnign sucessfully");
 
 app.use('/', Routes);
 
