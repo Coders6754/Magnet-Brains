@@ -3,7 +3,6 @@
 ## Overview
 The Task Management System is a web application designed to help users efficiently manage their tasks. It offers functionalities such as task creation, listing, editing, and deletion, along with user authentication to ensure data privacy and security. This document provides a detailed overview of the project, including its structure, functionalities, design decisions, and rationale.
 
-<hr/>
 
 ## Feature
 - **Secure user authentication and authorization**
@@ -25,12 +24,10 @@ The Task Management System is a web application designed to help users efficient
 ## Deployment
 The project is deployed and accessible at https://magnet-brains.vercel.app/
 
-<hr/>
 
 ## Deployed Link
 The project is deployed link -  https://magnet-brains-cwtx.vercel.app/board
 
-<hr/>
 
 ## Project Structure
 
